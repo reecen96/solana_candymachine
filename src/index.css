@@ -1,0 +1,50 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: black;
+
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+#centre{
+  position: fixed;
+  text-align: center;
+  top: 75%;
+  width: 100%;
+}
+
+#candybox{
+  position: fixed;
+  text-align: center;
+  top: 8%;
+  width: 100%;
+}
+
+#header{
+  font-family: 'Press Start 2P', cursive;
+  font-size: large;
+  color: white;
+}
+
+p{
+  font-family: 'Press Start 2P', cursive;
+  font-size: 60%;
+  color: white
+}
+
+#candybot{
+  width: 50%;
+}
+
+#background{
+  height: 100%;
+  widows: 100%;
+}
